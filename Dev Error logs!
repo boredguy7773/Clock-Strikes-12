@@ -1,89 +1,67 @@
-[00:50:57][no_game_date][pdx_localize.cpp:1084]: Expected colon(:) at line 1179 and column 7 in localisation/english/state_names_l_english.yml
-[00:51:02][no_game_date][equipment_graphic_database.cpp:36]: GFX referenced in equipment graphic database does not exist: "GFX_USA_prototype_plane_0_medium", associated with USA jet_strat_bomber_equipment
-[00:51:02][no_game_date][equipment_graphic_database.cpp:36]: GFX referenced in equipment graphic database does not exist: "GFX_USA_prototype_plane_0_medium", associated with USA jet_tac_bomber_equipment
-[00:51:02][no_game_date][equipment_graphic_database.cpp:59]: Entity referenced in equipment graphic database does not exist: "GER_super_heavy_armor_entity", associated with GER super_heavy_tank_chassis
-[00:51:02][no_game_date][equipment_graphic_database.cpp:59]: Entity referenced in equipment graphic database does not exist: "SOV_modern_armor_entity", associated with SOV modern_tank_chassis
-[00:51:02][no_game_date][equipment_graphic_database.cpp:59]: Entity referenced in equipment graphic database does not exist: "SOV_super_heavy_armor_entity", associated with SOV super_heavy_tank_chassis
-[00:51:02][no_game_date][equipment_graphic_database.cpp:59]: Entity referenced in equipment graphic database does not exist: "SOV_modern_armor_entity", associated with SOV modern_tank_artillery_chassis
-[00:51:09][no_game_date][triggerimplementation.cpp:9535]: common/scripted_effects/BLT_scripted_effects.txt:77: has_game_rule: game rule LIT_ai_behavior does not exist
-[00:51:09][no_game_date][trigger.cpp:118]: Trigger failed to validate: common/scripted_effects/BLT_scripted_effects.txt:77: has_game_rule
-[00:51:09][no_game_date][triggerimplementation.cpp:9535]: common/scripted_effects/BLT_scripted_effects.txt:83: has_game_rule: game rule LIT_ai_behavior does not exist
-[00:51:09][no_game_date][trigger.cpp:118]: Trigger failed to validate: common/scripted_effects/BLT_scripted_effects.txt:83: has_game_rule
-[00:51:09][no_game_date][triggerimplementation.cpp:9535]: common/scripted_effects/BLT_scripted_effects.txt:213: has_game_rule: game rule EST_ai_behavior does not exist
-[00:51:09][no_game_date][trigger.cpp:118]: Trigger failed to validate: common/scripted_effects/BLT_scripted_effects.txt:213: has_game_rule
-[00:51:09][no_game_date][triggerimplementation.cpp:9535]: common/scripted_effects/BLT_scripted_effects.txt:219: has_game_rule: game rule EST_ai_behavior does not exist
-[00:51:09][no_game_date][trigger.cpp:118]: Trigger failed to validate: common/scripted_effects/BLT_scripted_effects.txt:219: has_game_rule
-[00:51:10][no_game_date][gameapplication.cpp:814]: The game has loc key collisions. Check logs/text.log for more details
-[00:51:12][1936.01.01.12][effect.cpp:439]: Invalid effect 'IRQ_kamil_shabib' in history/countries/IRQ - Iraq.txt line : 110
-[00:51:12][1936.01.01.12][effect.cpp:352]: Error: "Unknown effect-type: IRQ_kamil_shabib, near line: 110" in file: "history/countries/IRQ - Iraq.txt" near line: 121
-[00:51:12][1936.01.01.12][statehistory.cpp:315]: State Error: Trying to set province building in state that doesn't own it. Province #11293 in state #113.
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1727: map building(Military Factory) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 3342. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1728: map building(Military Factory) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 7377. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1729: map building(Military Factory) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 285. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1730: map building(Civilian Factory) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 3342. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1732: map building(Civilian Factory) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 303. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1734: map building(Civilian Factory) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 285. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1735: map building(Civilian Factory) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 303. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1736: map building(Air Base) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 3342. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1738: map building(naval_base_spawn) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 11293. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1739: map building(naval_base_spawn) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 7377. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1740: map building(naval_base_spawn) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 285. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1741: map building(Land Fort) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 3342. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1742: map building(Land Fort) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 11293. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1744: map building(Land Fort) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 285. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1745: map building(Land Fort) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 7377. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1746: map building(Land Fort) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 303. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1749: map building(Coastal Fort) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 11293. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1751: map building(Coastal Fort) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 7377. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1752: map building(Coastal Fort) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 285. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1753: map building(Naval Dockyard) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 7377. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1755: map building(Anti-Air) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 7377. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1756: map building(Anti-Air) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 303. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1757: map building(Synthetic Refinery) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 3342. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1847: map building(Military Factory) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3329. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1849: map building(Military Factory) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3242. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1851: map building(Military Factory) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3242. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1853: map building(Civilian Factory) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3242. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1856: map building(Civilian Factory) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3379. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1858: map building(Civilian Factory) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3329. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1860: map building(naval_base_spawn) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3329. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1862: map building(naval_base_spawn) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3379. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1863: map building(naval_base_spawn) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3242. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1865: map building(Land Fort) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3329. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1868: map building(Land Fort) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3379. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1869: map building(Land Fort) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3242. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1871: map building(Coastal Fort) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3379. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1872: map building(Coastal Fort) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3329. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1873: map building(Coastal Fort) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3242. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1874: map building(Naval Dockyard) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3329. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1876: map building(Anti-Air) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3379. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 1878: map building(Synthetic Refinery) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3329. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 17216: map building(rocket_site_spawn) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 7377. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 18507: map building(Radar Station) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 3342. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 21733: map building(Fuel Silo) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 7377. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 21738: map building(Fuel Silo) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3242. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 24778: map building(Supply Hub) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 285. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 24779: map building(Supply Hub) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 303. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 24781: map building(Supply Hub) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 3342. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 24783: map building(Supply Hub) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 7377. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 24784: map building(Supply Hub) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 11293. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 24806: map building(Supply Hub) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3242. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 24807: map building(Supply Hub) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3329. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 24808: map building(Supply Hub) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3379. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 47005: map building(special_project_facility_spawn) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 285. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 47007: map building(special_project_facility_spawn) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 7377. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 47009: map building(special_project_facility_spawn) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 3342. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 47011: map building(special_project_facility_spawn) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 303. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 47012: map building(special_project_facility_spawn) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 11293. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 47043: map building(special_project_facility_spawn) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3242. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 47044: map building(special_project_facility_spawn) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3379. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 47045: map building(special_project_facility_spawn) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3329. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 55669: map building(Stronghold Network) location is not within specified state. Supposed to be '113 - North Dublin' but was '1018 - South Dublin'for province 285. BUILDING IGNORED!
-[00:51:14][1936.01.01.12][mapbuildings.cpp:702]: map/buildings.txt error at line 55675: map building(Stronghold Network) location is not within specified state. Supposed to be '119 - Londonderry' but was '1017 - North Ireland'for province 3329. BUILDING IGNORED!
-[00:51:15][1936.01.01.12][map.cpp:1623]: Province 285 is setup as coastal but has no port building in the nudger. This will likely crash the game.
-[00:51:15][1936.01.01.12][map.cpp:1623]: Province 3242 is setup as coastal but has no port building in the nudger. This will likely crash the game.
-[00:51:15][1936.01.01.12][map.cpp:1623]: Province 3329 is setup as coastal but has no port building in the nudger. This will likely crash the game.
-[00:51:15][1936.01.01.12][map.cpp:1623]: Province 3379 is setup as coastal but has no port building in the nudger. This will likely crash the game.
-[00:51:15][1936.01.01.12][map.cpp:1623]: Province 7377 is setup as coastal but has no port building in the nudger. This will likely crash the game.
-[00:51:15][1936.01.01.12][map.cpp:1623]: Province 11293 is setup as coastal but has no port building in the nudger. This will likely crash the game.
+[01:02:14][no_game_date][pdx_localize.cpp:1084]: Expected colon(:) at line 1179 and column 7 in localisation/english/state_names_l_english.yml
+[01:02:20][no_game_date][equipment_graphic_database.cpp:36]: GFX referenced in equipment graphic database does not exist: "GFX_USA_prototype_plane_0_medium", associated with USA jet_strat_bomber_equipment
+[01:02:20][no_game_date][equipment_graphic_database.cpp:36]: GFX referenced in equipment graphic database does not exist: "GFX_USA_prototype_plane_0_medium", associated with USA jet_tac_bomber_equipment
+[01:02:20][no_game_date][equipment_graphic_database.cpp:59]: Entity referenced in equipment graphic database does not exist: "GER_super_heavy_armor_entity", associated with GER super_heavy_tank_chassis
+[01:02:20][no_game_date][equipment_graphic_database.cpp:59]: Entity referenced in equipment graphic database does not exist: "SOV_modern_armor_entity", associated with SOV modern_tank_chassis
+[01:02:20][no_game_date][equipment_graphic_database.cpp:59]: Entity referenced in equipment graphic database does not exist: "SOV_super_heavy_armor_entity", associated with SOV super_heavy_tank_chassis
+[01:02:20][no_game_date][equipment_graphic_database.cpp:59]: Entity referenced in equipment graphic database does not exist: "SOV_modern_armor_entity", associated with SOV modern_tank_artillery_chassis
+[01:02:29][no_game_date][triggerimplementation.cpp:9535]: common/scripted_effects/BLT_scripted_effects.txt:77: has_game_rule: game rule LIT_ai_behavior does not exist
+[01:02:29][no_game_date][trigger.cpp:118]: Trigger failed to validate: common/scripted_effects/BLT_scripted_effects.txt:77: has_game_rule
+[01:02:29][no_game_date][triggerimplementation.cpp:9535]: common/scripted_effects/BLT_scripted_effects.txt:83: has_game_rule: game rule LIT_ai_behavior does not exist
+[01:02:29][no_game_date][trigger.cpp:118]: Trigger failed to validate: common/scripted_effects/BLT_scripted_effects.txt:83: has_game_rule
+[01:02:29][no_game_date][triggerimplementation.cpp:9535]: common/scripted_effects/BLT_scripted_effects.txt:213: has_game_rule: game rule EST_ai_behavior does not exist
+[01:02:29][no_game_date][trigger.cpp:118]: Trigger failed to validate: common/scripted_effects/BLT_scripted_effects.txt:213: has_game_rule
+[01:02:29][no_game_date][triggerimplementation.cpp:9535]: common/scripted_effects/BLT_scripted_effects.txt:219: has_game_rule: game rule EST_ai_behavior does not exist
+[01:02:29][no_game_date][trigger.cpp:118]: Trigger failed to validate: common/scripted_effects/BLT_scripted_effects.txt:219: has_game_rule
+[01:02:30][no_game_date][gameapplication.cpp:814]: The game has loc key collisions. Check logs/text.log for more details
+[01:02:32][1936.01.01.12][effect.cpp:439]: Invalid effect 'IRQ_kamil_shabib' in history/countries/IRQ - Iraq.txt line : 110
+[01:02:33][1936.01.01.12][effect.cpp:352]: Error: "Unknown effect-type: IRQ_kamil_shabib, near line: 110" in file: "history/countries/IRQ - Iraq.txt" near line: 121
+[01:02:33][1936.01.01.12][statehistory.cpp:315]: State Error: Trying to set province building in state that doesn't own it. Province #11293 in state #113.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60179: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60180: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60181: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60182: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60183: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60184: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60185: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60186: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60187: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60188: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60189: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60190: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60191: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60192: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60193: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60194: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60195: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60196: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60197: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60198: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60199: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60200: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60201: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60202: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60203: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60204: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60205: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60206: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60207: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60208: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60209: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60210: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60211: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60212: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60213: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60214: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60215: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60216: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60217: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60218: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60219: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60338: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60339: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][mapbuildings.cpp:674]: map/buildings.txt error at line 60340: map building location has invalid state (1019 - ignoring instance.
+[01:02:36][1936.01.01.12][map.cpp:1623]: Province 3396 is setup as coastal but has no port building in the nudger. This will likely crash the game.
+[01:02:36][1936.01.01.12][map.cpp:1623]: Province 9303 is setup as coastal but has no port building in the nudger. This will likely crash the game.
+[01:02:36][1936.01.01.12][map.cpp:1623]: Province 11237 is setup as coastal but has no port building in the nudger. This will likely crash the game.
 
