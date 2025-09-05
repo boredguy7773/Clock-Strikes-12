@@ -1,0 +1,41 @@
+
+state={
+	id=1018
+	name="South Dublin" # Leinster
+	manpower = 678800
+	resources={
+		aluminium=1 # was: 2
+		steel=3 # was: 3
+	}
+	
+	state_category = city
+	
+	history={
+		owner = IRE
+		victory_points = {
+			285 1 #Wexford
+		}
+		victory_points = {
+			303 1 #Tullamore
+		}
+		victory_points = {
+			11293 10 #Dublin
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 5
+			air_base = 3
+			11293 = {
+				naval_base = 6
+			}
+		}
+		add_core_of = IRE
+	}
+
+	provinces={
+		285 303 3342 7377 11293 
+	}
+
+	local_supplies=1
+}
