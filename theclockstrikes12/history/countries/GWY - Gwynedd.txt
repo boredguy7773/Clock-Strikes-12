@@ -1,4 +1,4 @@
-﻿capital = 183
+﻿capital = 6363
 
 #oob = ""
 
@@ -58,3 +58,4 @@ set_popularities = {
 	communism = 15
 	neutrality = 27
 }
+
