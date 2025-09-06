@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_GWY_llywelyn_ap_iorwerth"
+		texturefile = "gfx/leaders/GWY/portrait_gwy_llywelyn_ap_iorwerth.dds"
+	}
+}
