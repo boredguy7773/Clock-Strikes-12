@@ -1,4 +1,4 @@
-capital = 6363
+capital = 122
 
 set_stability = 0.4
 set_war_support = 0.7
@@ -53,6 +53,7 @@ add_ideas = {
 	war_economy
 	extensive_conscription
 }
+
 
 
 
