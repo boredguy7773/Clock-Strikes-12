@@ -4,7 +4,7 @@ state={
 	name="Londonderry"
 
 	history={
-		owner = ENG
+		owner = IRE
 		victory_points = {
 			385 5 # Londonderry
 		}
