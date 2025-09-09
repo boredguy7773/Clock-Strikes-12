@@ -1,5 +1,9 @@
 #reload countrycolors
 
+ENG = {
+	color = rgb { 255 150 190 }
+	color_ui = rgb { 255 150 190 }
+}
 GWY = {
 	color = rgb { 41 132 27 }
 	color_ui = rgb { 41 132 27 }
