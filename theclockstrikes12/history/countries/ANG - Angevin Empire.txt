@@ -4,7 +4,7 @@ set_stability = 0.4
 set_war_support = 0.7
 
 
-recruit_character = ENG_king_john_lackland
+recruit_character = ANG_king_john_lackland
 
 
 # Starting tech
@@ -53,6 +53,7 @@ add_ideas = {
 	war_economy
 	extensive_conscription
 }
+
 
 
 
