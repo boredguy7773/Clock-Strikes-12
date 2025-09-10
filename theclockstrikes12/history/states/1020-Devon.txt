@@ -12,7 +12,7 @@ state= {
 
 	history=
 	{
-		owner = ENG
+		owner = ANG
 		victory_points = {
 			9562 5 #Carlisle
 		}
@@ -20,7 +20,7 @@ state= {
 			infrastructure = 3
 			industrial_complex = 1
 		}
-		add_core_of = ENG
+		add_core_of = ANG
 		add_core_of = WLS
 	}
 
