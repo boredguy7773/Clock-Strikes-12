@@ -104,7 +104,6 @@ KAZ = "countries/Kazakhstan.txt"
 AZR = "countries/Azerbaijan.txt"
 ARM = "countries/Armenia.txt"
 BLR = "countries/Belarus.txt"
-ANG = "countries/Angola.txt"
 MZB = "countries/Mozambique.txt"
 ZIM = "countries/Zimbabwe.txt"
 COG = "countries/Congo.txt"
@@ -345,7 +344,7 @@ BLC = "countries/Balochistan.txt"
 
 # Modded tags
 GWY = "countries/Gwynedd.txt"
-ENG = "countries/Angevin Empire.txt"
+ANG = "countries/Angevin Empire.txt"
 
 
 #NOTE: Useful to add a basic default loc entry for each tag in 00_countries.txt so that hovering over a tag will show the tag's name in loc (ie. PAP: "Papal States")
