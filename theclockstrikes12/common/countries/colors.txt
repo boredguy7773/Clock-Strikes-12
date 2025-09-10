@@ -1,6 +1,6 @@
 #reload countrycolors
 
-ENG = {
+ANG = {
 	color = rgb { 255 150 190 }
 	color_ui = rgb { 255 150 190 }
 }
