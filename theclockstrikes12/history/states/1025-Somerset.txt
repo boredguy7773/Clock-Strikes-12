@@ -12,13 +12,13 @@ state= {
 
 	history=
 	{
-		owner = ANG
+		owner = AGN
 		victory_points = { 3422 10 }
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 		}
-		add_core_of = ANG
+		add_core_of = AGN
 		add_core_of = WLS
 	}
 

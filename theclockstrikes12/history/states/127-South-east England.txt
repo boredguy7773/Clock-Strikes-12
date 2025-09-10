@@ -6,8 +6,8 @@ state = {
 
 	history = {
 
-		owner = ANG
-		add_core_of = ANG
+		owner = AGN
+		add_core_of = AGN
 
 		victory_points = { 
 			3501 20 # Dover

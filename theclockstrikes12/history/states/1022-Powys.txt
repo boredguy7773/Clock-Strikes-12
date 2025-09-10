@@ -12,7 +12,7 @@ state= {
 
 	history=
 	{
-		owner = ANG
+		owner = AGN
 		victory_points = {
 			253 3 #Swansea
 		}
@@ -23,7 +23,7 @@ state= {
 			infrastructure = 3
 			industrial_complex = 1
 		}
-		add_core_of = ANG
+		add_core_of = AGN
 		add_core_of = WLS
 	}
 

@@ -4,7 +4,7 @@ state={
 	name="North Ireland"
 
 	history={
-		owner = ANG
+		owner = AGN
 		victory_points = {
 			3379 5
 		}
@@ -18,7 +18,7 @@ state={
 				naval_base = 4
 			}
 		}
-		add_core_of = ANG
+		add_core_of = AGN
 		add_core_of = IRE
 		add_core_of = NIR
 	}
