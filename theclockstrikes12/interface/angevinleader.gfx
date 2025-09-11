@@ -1,8 +1,7 @@
 spriteTypes = {
 
 	spriteType = {
-		name = "GFX_portrait_ANG_king_john_lackland"
-		texturefile = "gfx/leaders/ANG/portrait_eng_king_john_lackland.dds"
+		name = "GFX_portrait_AGN_king_john_lackland"
+		texturefile = "gfx/leaders/AGN/portrait_agn_king_john_lackland.dds"
 	}
-
 }
